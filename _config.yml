@@ -4,6 +4,16 @@ url: https://www.mathscienceclub.org
 baseurl: ""
 theme: minima
 default_header_image: /assets/images/group-picture.jpg
+
+twitter:
+  card: summary_large_image
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/group-picture.jpg
+
 markdown: kramdown
 kramdown:
   math_engine: mathjax
