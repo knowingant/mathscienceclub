@@ -10,6 +10,11 @@
   width: 50%;
 }
 
+.site-header {
+  position: relative;
+  z-index: 10;
+}
+
 .site-logo {
   display: inline-block;
   line-height: 0;
