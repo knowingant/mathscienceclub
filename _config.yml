@@ -1,5 +1,18 @@
 title: Math + Science Club
 description: A student community for curious minds.
+url: https://www.mathscienceclub.org
+baseurl: ""
 theme: minima
+default_header_image: /assets/images/group-picture.jpg
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
 
-header_pages: []
+header_pages:
+  - math.md
+  - science.md
+  - events.md
+  - team.md
+  - register.md
+  - donate.md
+  - sponsors.md

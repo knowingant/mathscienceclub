@@ -1,0 +1,9 @@
+{%- assign header_image = page.header_image | default: site.default_header_image -%}
+<header class="page-hero"{% if header_image %} style="background-image: url('{{ header_image | relative_url }}');"{% endif %}>
+  <div class="page-hero-content">
+    <h1 class="page-hero-title">{{ page.hero_title | default: page.title | escape }}</h1>
+  </div>
+</header>
+{%- if page.header_caption -%}
+<div class="page-hero-caption">{{ page.header_caption | markdownify }}</div>
+{%- endif -%}

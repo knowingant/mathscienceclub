@@ -3,6 +3,97 @@
 
 @import "minima";
 
-.site-title {
+.center {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.site-logo {
+  display: inline-block;
+  line-height: 0;
+  padding: 5px 0;
+}
+
+.site-logo img {
+  height: 50px;
+  width: auto;
+}
+
+.page-hero {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 240px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  background-color: #222;
+  background-position: center;
+  background-size: cover;
+}
+
+.page-hero::before {
+  position: absolute;
+  inset: 0;
+  content: "";
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.page-hero-content {
+  position: relative;
+  padding: 24px;
+  text-align: center;
+}
+
+.page-hero-title {
+  margin: 0;
+  color: #fff;
+  font-size: 2.75rem;
   font-weight: 600;
+  line-height: 1.15;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.6);
+}
+
+.page-hero-caption {
+  margin: 0 auto 30px;
+  padding: 0 24px;
+  max-width: 800px;
+  color: #666;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.page-hero-caption p {
+  margin: 0;
+}
+
+.bio-photo {
+  float: left;
+  margin: 0 20px 10px 0;
+}
+
+.bio-photo img {
+  max-width: 300px;
+  max-height: 300px;
+  width: auto;
+  height: auto;
+}
+
+@media screen and (max-width: 700px) {
+  .bio-photo {
+    float: none;
+    margin: 0 0 15px;
+  }
+
+  .bio-photo img {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .page-hero-title {
+    font-size: 2.1rem;
+  }
 }

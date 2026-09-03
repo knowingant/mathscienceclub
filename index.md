@@ -1,14 +1,8 @@
 ---
 layout: home
-title: Math + Science Club
+title: Home
+hero_title: Math + Science Club
+header_image: /assets/images/group-picture.jpg
 ---
 
-# Math + Science Club
-
-We explore ideas, solve problems, and learn together.
-
-Meetings, events, and resources will be posted here soon.
-
-## Get involved
-
-Questions or ideas? Reach out to a club leader or adviser.
+Founded in the summer of 2023, Math + Science Club is an in-person club for middle and high school students interested in competition math and science. Meetings are on the first floor of Ridgedale Library (12601 Ridgedale Dr, Minnetonka, MN 55305) on Sunday afternoons during the school year.
