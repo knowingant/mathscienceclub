@@ -1,7 +1,6 @@
 ---
 layout: home
-title: In-person club at Ridgedale Library
-hero_title: Math + Science Club
+title: Math + Science Club
 header_image: /assets/images/group-picture.jpg
 ---
 
