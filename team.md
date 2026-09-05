@@ -7,6 +7,10 @@ header_image: /assets/images/ttts.jpg
 
 To apply to become a volunteer, email us at [mathscienceclub.mn@gmail.com](mailto:mathscienceclub.mn@gmail.com) or message Michael on Discord at `knowingant`.
 
+See also our [past staff](/past-staff/).
+
+# Student volunteers
+
 <div class="bio-photo">
     <img src="/assets/images/yrc.jpg">
 </div>
@@ -45,16 +49,16 @@ In his free time, he enjoys golfing, skiing, reading classics and logging restau
     <img src="/assets/images/eric.png">
 </div>
 ## Eric Luo
-Eric Luo is a sophomore at Minnetonka High School. Like Evan, he first became interested in math and science competitions when he joined the Minnetonka Middle School East Math and Science Club. Eric enjoys math, mainly algebra and number theory. He has almost qualified for AIME, made MATHCOUNTS State, received a 24 on the AMC 8, and made top 8 in Science Bowl Nationals. Outside of STEM, Eric enjoys playing Minecraft, chess, and playing tennis.
+Eric Luo is a sophomore at Minnetonka High School. Like Evan, he first became interested in math and science competitions when he joined the Minnetonka Middle School East Math and Science Club. Eric enjoys math, mainly algebra and number theory. He has made MATHCOUNTS State, received a 24 on the AMC 8, and made top 8 in Science Bowl Nationals. Outside of STEM, Eric enjoys playing Minecraft, chess, and playing tennis.
 <br clear="left" />
 
 <div class="bio-photo">
     <img src="/assets/images/michael.jpg">
 </div>
 ## Michael Luo
-Michael is a senior at Minnetonka High School. He attended MOP in 2025 and RSI in 2026. He qualified for TST group for the 2026 IMO and won a gold medal at AMM 2026. He won a bronze medal in USAPhO 2025 and qualified for USNCO Nationals.
+Michael is a senior at Minnetonka High School. He attended MOP in 2025 and RSI in 2026. He qualified the 2025–26 TST cycle and won a gold medal at AMM 2026. He won a bronze medal in USAPhO 2025 and qualified for USNCO Nationals.
 
-In his free time, he enjoys writing, 斗地主, poker, riichi mahjong, and 升級. Michael enjoys telling dumb jokes and is very patriotic for his state. His favorite riichi mahjong yaku is ryuuiisou, and his favorite Taylor Swift album is Speak Now.
+He enjoys writing, 斗地主, poker, riichi mahjong, and 升級. Michael enjoys telling dumb jokes and is very patriotic for his state. His favorite riichi mahjong yaku is ryuuiisou, and his favorite Taylor Swift album is Speak Now.
 <br clear="left" />
 
 <div class="bio-photo">
@@ -101,4 +105,39 @@ Andreas is a junior at Minnetonka High School who has competed in various math c
 Jeff is a junior at Wayzata High School. He attended MOP in 2026. He got 6th at HMMT 2026, and 1st in geometry at CMIMC 2026. He won a silver medal at AMM 2026.
 
 In his free time, he enjoys playing dailies, problem writing, and being bad at chess. He is an on-and-off PvZ fan. His favorite diagram software is Asymptote and his favorite instrumental piece is Graze the Roof.
+<br clear="left" />
+
+# Advisors
+<div class="bio-photo">
+    <img src="/assets/images/mingyi-hong.png">
+</div>
+## Mingyi Hong
+
+Dr. Hong received his Ph.D. degree from the University of Virginia, Charlottesville, in 2011. He is an Associate professor in the Department of Electrical and Computer Engineering at the University of Minnesota, Minneapolis, and he holds adjunct positions in the Department of Computer Science and Engineering, and the Department of Industrial and Systems Engineering. His research is focused on developing mathematical optimization theory and algorithms, and applying optimization principles for applications in signal processing, machine learning, and most recently, large language models.
+ 
+Dr. Hong’s work has received two IEEE Signal Processing Society (SPS) Best Paper Awards (2021, 2022), an International Consortium of Chinese Mathematicians Best Paper Award (2020), an IBM Pat Goldberg Memorial Award (honorable mention), and a few Best (student) Paper Awards in signal processing and machine learning conferences. He is an Amazon Scholar, and he is the recipient of an IBM Faculty Award, a Meta Research Award, and a Cisco Research Award. His is the recipient of the 2022 Pierre-Simon Laplace Early Career Technical Achievement Award from IEEE SPS.
+ 
+In the Math + Science club, Dr. Hong has been involved in offering seminars and lectures on topics such as machine learning and algorithm design.
+<br clear="left" />
+
+<div class="bio-photo">
+    <img src="/assets/images/jie-luo.jpg">
+</div>
+## Jie Luo
+
+Dr. Luo holds a PhD from the University of Michigan, Ann Arbor, and is an accomplished engineer at Cummins Power Generator. 
+
+Dr. Luo has extensive experience guiding students to success, having coached the Minnetonka Middle School East Science Bowl team to win the State Champion in 2023 and 2025, and led the MATHCOUNTS team to win the State Champion in 2023 in its first year. As a First LEGO League coach, his team qualified for the State level and earned the prestigious Project Award twice.
+
+His hands-on approach and dedication to the STEM education have equipped him with effective strategies to engage students and foster their passion for learning.
+
+In the Math + Science club, Dr. Luo has been involved in offering seminars and lectures on topics on math, physics, engineering, and general science.
+<br clear="left" />
+
+<div class="bio-photo">
+    <img src="/assets/images/pasha.jpg">
+</div>
+## Dr. Pavlo Pylyavskyy
+
+Dr. Pylyavskyy, born in Ukraine, discovered his passion for mathematics early in life. He represented Ukraine at the International Mathematical Olympiad (IMO) four times, earning bronze, silver, and two gold medals. These achievements paved the way for his admission to MIT, where he completed both his undergraduate studies and Ph.D. program. Currently, Dr. Pylyavskyy is a Professor of Mathematics at the University of Minnesota. His research focuses on algebraic combinatorics, though he still enjoys exploring math olympiad problems whenever time allows. Among his accolades are the prestigious Sloan Research Fellowship and an NSF CAREER grant. In his free time, Dr. Pylyavskyy enjoys spending time with his wife and three children, listening to audiobooks, and taking long walks in nature.
 <br clear="left" />
