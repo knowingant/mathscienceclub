@@ -18,7 +18,7 @@ Outside of math, Jessica enjoys figure skating, drawing, painting, playing with 
     <img src="/assets/images/kaining.png">
 </div>
 ## Kaining Zhang
-Kaining Zhang is a freshman at Stanford was captain of her school’s math team. She loves teaching younger students and building their passion for math.
+Kaining Zhang is a freshman at Stanford and was captain of her school’s math team. She loves teaching younger students and building their passion for math.
 
 Kaining is an UMTYMP graduate and a three-time AIME qualifier. She is also a Math Prize For Girls qualifier. She has been a member of the Minnesota All-State Math Team since 7th grade, attending national competitions like HMMT, CMIMC, and ARML.
 

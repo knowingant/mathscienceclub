@@ -98,6 +98,15 @@ Andreas is a junior at Minnetonka High School who has competed in various math c
 <br clear="left" />
 
 <div class="bio-photo">
+    <img src="/assets/images/owen.jpg">
+</div>
+## Owen Wang
+Owen is a junior at Minnetonka High School that enjoys STEM. He is interested in math competitions, having done MATHCOUNTS and being on the Minnetonka Math Team. Owen has participated in middle and high school Science Bowl, specializing in earth and space science. Owen also enjoys learning about A.I., computer science and coding,
+
+Outside of STEM, Owen likes DECA, soccer, violin, hanging out with friends, reading, and playing video games.
+<br clear="left" />
+
+<div class="bio-photo">
     <img src="/assets/images/jeff.png">
 </div>
 ## Jeff Zhou
